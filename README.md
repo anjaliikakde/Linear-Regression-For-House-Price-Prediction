@@ -4,8 +4,6 @@ This project is a beginner-friendly, end-to-end **House Price Prediction Web App
 
 This project is ideal for students, hobbyists, or anyone curious about how real-world machine learning applications are built and deployed.
 
----
-
 ## Project Structure
 
 ```
@@ -21,8 +19,6 @@ house-price-app/
 └── README.md            → Project documentation (this file)
 ```
 
----
-
 ## Requirements
 
 - Python 3.10.10
@@ -30,7 +26,6 @@ house-price-app/
 - Git
 - Docker (Optional, for container deployment)
 
----
 
 ## How It Works
 
@@ -85,8 +80,6 @@ python train_model.py
 streamlit run app.py
 ```
 
----
-
 ## How to Run Using Docker
 
 ### 1. Build Docker Image
@@ -103,7 +96,6 @@ docker run -p 8501:8501 house-price-streamlit
 
 Visit `http://localhost:8501` in your browser.
 
----
 
 ## Deploying to Render (Cloud Hosting)
 
