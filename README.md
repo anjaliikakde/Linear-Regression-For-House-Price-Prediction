@@ -146,7 +146,3 @@ Your app will be live at:
 ```
 https://your-app-name.onrender.com
 ```
-
----
-
-Let me know if you want a section for FAQs, author info, or contribution guidelines.
